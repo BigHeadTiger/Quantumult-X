@@ -7,5 +7,6 @@ HOST-SUFFIX,emby.wiki,Emby
 
 # 自定义 Emby 服务器分流规则
 HOST,emby3.misakaf.org,Emby
+HOST,stream3.misakaf.org,Emby
 HOST,z.sfcj.org,Emby
 HOST,embyclub.maoxiong.cloud,Emby
