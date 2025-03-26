@@ -6,10 +6,11 @@ HOST-SUFFIX,embyapp.com,Emby
 HOST-SUFFIX,emby.wiki,Emby
 
 # 自定义 Emby 服务器分流规则
+HOST,wf.vban.xyz
 HOST,emby3.misakaf.org,Emby
 HOST,stream3.misakaf.org,Emby
 HOST,z.sfcj.org,Emby
 HOST,embyclub.maoxiong.cloud,Emby
 HOST,abc.auroramedia.vip,Emby
 HOST,152.53.133.214,Emby
-HOST,wf.vban.xyz
+
