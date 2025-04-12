@@ -19,4 +19,6 @@ HOST,emby.nezhasu.com,Emby
 HOST,emby.ucloudhost.top,DIRECT
 HOST-SUFFIX,micu.hk,DIRECT
 HOST-SUFFIX,micu.hk,DIRECT
+HOST-SUFFIX,emby.bangumi.ca,DIRECT
+HOST-SUFFIX,ap-cn01.emby.bangumi.ca,DIRECT
 HOST,media,micu.hk,Emby
