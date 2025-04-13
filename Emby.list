@@ -21,4 +21,8 @@ HOST-SUFFIX,micu.hk,DIRECT
 HOST-SUFFIX,micu.hk,DIRECT
 HOST-SUFFIX,emby.bangumi.ca,DIRECT
 HOST-SUFFIX,ap-cn01.emby.bangumi.ca,DIRECT
+HOST-SUFFIX,wj.siepro.uk,DIRECT
+HOST-SUFFIX,ck.siepro.uk,DIRECT
+HOST-SUFFIX,uh.siepro.uk,DIRECT
+HOST-SUFFIX,sg.siepro.uk,DIRECT
 HOST,media,micu.hk,Emby
