@@ -51,4 +51,7 @@ HOST-SUFFIX,plumber.nezhasu.com,Emby
 HOST-SUFFIX,shouer.910427.xyz,Emby
 HOST-SUFFIX,mperformance.mebimmer.de,Emby
 HOST-SUFFIX,emby.kongcheng666.dpdns.org,Emby
+HOST-SUFFIX,emby.embyserver.dpdns.org:16666,DIRECT
+HOST-SUFFIX,emby.ipv4.embyserver.dpdns.org:16666,DIRECT
+HOST-SUFFIX,emby.ipv6.embyserver.dpdns.org:16666,DIRECT
 
