@@ -57,5 +57,5 @@ HOST-SUFFIX,emby.ipv6.embyserver.dpdns.org:16666,DIRECT
 HOST-SUFFIX,emby.feiniu.lol,Emby
 HOST-SUFFIX,test.feiniu.lol,Emby
 HOST-SUFFIX,emby.nubebelle.cn,Emby
-HOST-SUFFIX,10520.xyz:443,Emby
+HOST-SUFFIX,10520.xyz,Emby
 
