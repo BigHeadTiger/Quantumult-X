@@ -6,14 +6,19 @@ HOST-SUFFIX,embyapp.com,PROXY
 HOST-SUFFIX,emby.wiki,PROXY
 
 # 自定义 Emby 服务器分流规则
-HOST-SUFFIX,free.28.al,PROXY
-HOST-SUFFIX,bai.yezi.my,DIRECT
+HOST-SUFFIX,yp.lyezi.cc,DIRECT
+HOST-SUFFIX,kuai1.lyezi.xyz,DIRECT
+HOST-SUFFIX,kuai2.lyezi.xyz,DIRECT
+HOST-SUFFIX,kuai3.lyezi.xyz,DIRECT
+HOST-SUFFIX,yz.200036.xyz,DIRECT
+HOST-SUFFIX,kuai5.lyezi.xyz,DIRECT
 HOST-SUFFIX,a.wedg.top,DIRECT
 HOST-SUFFIX,tt.wedg.top,DIRECT
 HOST-SUFFIX,cf.wedg.top,DIRECT
 HOST-SUFFIX,jp.wedg.top,DIRECT
 HOST-SUFFIX,cmcc.wedg.top,DIRECT
 HOST-SUFFIX,gy.emby.yun,DIRECT
+HOST-SUFFIX,emby.bangumi.ca,DIRECT
 HOST-SUFFIX,link00.okemby.org,Emby
 HOST-SUFFIX,link01.okemby.org,Emby
 HOST-SUFFIX,101514.xyz,Emby
@@ -37,7 +42,6 @@ HOST-SUFFIX,lyj.ysz.dpdns.org,Emby
 HOST-SUFFIX,onatoshi.114514.quest,Emby
 HOST-SUFFIX,public.shrekmedia.org,Emby
 HOST-SUFFIX,wp.lyezi.cc,Emby
-HOST-SUFFIX,emby.bangumi.ca,Emby
 HOST-SUFFIX,m.wenjian.de,Emby
 HOST-SUFFIX,emby.heisi.org,Emby
 HOST-SUFFIX,emby666.alien666.de5.net,Emby
